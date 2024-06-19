@@ -35,7 +35,7 @@ const styles = StylrSheet.create({
     width: 300,
     height: 70,
     marginTop: 10,
-    backgroundColor:'',
+    backgroundColor:'#00008B',
     justifyContent:'center'
   }
 });
