@@ -19,3 +19,23 @@ export function TelaA() {
        )}>
      </View>
   );
+}
+
+const styles = StylrSheet.create({
+  container: {
+    marginTop: 50,
+    alingItens:'center'
+  },
+  texto:{
+    fontSize: 20,
+  },
+  lista:{
+    borderRadius: 10,
+    paddingLeft: 8,
+    width: 300,
+    height: 70,
+    marginTop: 10,
+    backgroundColor:'',
+    justifyContent:'center'
+  }
+});
